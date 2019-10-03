@@ -4,7 +4,7 @@ Learning git version control and collaborate with remote github repository. All 
    1. ZIANG ZHAO
    2. Sisov, Danil
    3. Verbovskiy, Andrey
-   4. testing
+   4. Pyshkin, Ilya
    5. testing2
    6. first try
    7. combination testing
