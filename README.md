@@ -6,6 +6,7 @@ Learning git version control and collaborate with remote github repository. All 
    3. and lot of fun
    4. testing
    5. testing2
-   6.first try
+   6. first try
+   7. combination testing
 
 
