@@ -5,4 +5,5 @@ Learning git version control and collaborate with remote github repository. All 
    2. training git and solving conflict
    3. and lot of fun
    4. testing
+   5. testing2
 
