@@ -1,19 +1,9 @@
-
-body {
-  background-color: lightgrey;
-
+body{
+    background-color: aliceblue;
 }
-h2 {
-  font-size: 50px;text-align: center;
+p{
+    font-family: "Comic Sans MS"; color: cadetblue;
 }
-a:link {color:yellow;}    /* 未被访问的链接 */
-a:visited {color:green;} /* 已被访问的链接 */
-a:hover {color:#FF0000;}   /* 鼠标指针移动到链接上 */
-a:active {color:#0000FF;}  /* 正在被点击的链接 */
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+h1{
+    color: crimson; ;
 }
-h3 {font-size:30px;color:black(207, 24, 24);font-style:oblique;}
