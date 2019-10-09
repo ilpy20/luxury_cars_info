@@ -8,7 +8,7 @@ Learning git version control and collaborate with remote github repository. All 
 <<<<<<< HEAD
    5. Sinha, Abhinav
 =======
-   5. testing2
+   5. a lot of quickable pictures
    6. first try
    7. combination testing
    8. BLAHBLOHHOH
